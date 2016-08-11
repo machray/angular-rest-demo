@@ -7,3 +7,7 @@ A CORS plugin was used to allow cross origin.
 Start the server by running 
 
 run.sh
+
+After server has started go to
+
+localhost:8080
